@@ -1,6 +1,6 @@
 # saas_microservice
-## Master branch has all the code related to react 
+## Frontend - Master branch
 * npm start to start the dev server
-## Backend has all the code related to the apis 
+## Backend - backend branch
 * Frontend port : 3000
 * Backend port: 5000
